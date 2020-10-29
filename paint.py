@@ -9,6 +9,7 @@ Exercises
 5. Add width parameter.
 Hola qué tal, ¿cómo has estado?
 """
+#Holaaa soy Aralí
 #Wolaaa soy Laurie
 import math
 from turtle import *
