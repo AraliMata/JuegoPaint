@@ -7,7 +7,7 @@ Exercises
 3. Complete rectangle.
 4. Complete triangle.
 5. Add width parameter.
-
+Hola qué tal, ¿cómo has estado?
 """
 import math
 from turtle import *
