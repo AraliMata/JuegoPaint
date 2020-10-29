@@ -9,6 +9,7 @@ Exercises
 5. Add width parameter.
 Hola qué tal, ¿cómo has estado?
 """
+#Wolaaa soy Laurie
 import math
 from turtle import *
 from freegames import vector
